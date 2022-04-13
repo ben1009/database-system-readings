@@ -1,18 +1,20 @@
 # Introduction
+
 This is a curated reading list about database systems, including personal digests of books/papers/blogs.
 
-Booklist can be found in README, while paper and blog digests are located in the issue list. 
+Booklist can be found in README, while paper and blog digests are located in the issue list.
 
-In the issue list, a closed issue means that the digest about it was finished, while an open one means that the digest is to-be-appeared or on-the-flying. 
+In the issue list, a closed issue means that the digest about it was finished, while an open one means that the digest is to-be-appeared or on-the-flying.
 
-For each paper digest, I try to answer the following questions: 
-- What problem does the paper solve? Is it important? 
+For each paper digest, I try to answer the following questions:
+
+- What problem does the paper solve? Is it important?
 - How does it solve the problem? Any approaches new?
-- What could be improved? 
+- What could be improved?
 - Anything interesting about it?
 
-
 # Booklist
+
 - Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 - Database Internals: A Deep Dive into How Distributed Data Systems Work
 - Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing
@@ -26,7 +28,9 @@ For each paper digest, I try to answer the following questions:
  -->
 
 # Referenced Reading Lists
-## General 
+
+## General
+
 - [:star:] [MIT 6.824 Distributed System Course](https://pdos.csail.mit.edu/6.824/schedule.html)
 - [:star:] Yuanli Wang at BU: [Sys Reading](https://github.com/pentium3/sys_reading/issues)
 - [:star:] Andy Pavlo at CMU: [Seminar 2021](https://db.cs.cmu.edu/seminar2021/)
@@ -50,32 +54,34 @@ For each paper digest, I try to answer the following questions:
 - Alaikexisi at AWS (in Chinese): [https://www.zhihu.com/column/c_158208519](https://www.zhihu.com/column/c_158208519)
 - Chinese translation set of classic papers in distributed system field: [http://duanple.com/?p=170](http://duanple.com/?p=170)
 
+## Streaming Systems
+
+- [:star:] Vasia at BU:
+  - [course DSPA 21](https://vasia.github.io/dspa21/readings.html)
+  - [course DSPA 20](https://vasia.github.io/dspa20/readings.html)
+- Jamie Brandon: [Scattered Thoughts](https://scattered-thoughts.net/)
+- Dunith Dhanushka: [https://dunith.medium.com/](https://dunith.medium.com/)
+- [streaming readings (in Chinese)](https://github.com/lw-lin/streaming-readings)
+- [Open Problems in Stream Processing: A Call To Action
+](https://docs.google.com/presentation/d/1YtTEnOax5MDA8DazDa1ad-sP4zzM58KQK4HNAcxoONA/edit?n=Open_Problems_in_Stream_Processing_A_Call_To_Action)
+
 ## System + Machine Learning
+
 - Umich: [https://github.com/mosharaf/eecs598](https://github.com/mosharaf/eecs598)
 - [https://github.com/mcanini/SysML-reading-list](https://github.com/mcanini/SysML-reading-list)
 - [https://remziarpacidusseau.wixsite.com/mlos](https://remziarpacidusseau.wixsite.com/mlos)
 
 ## System Reliability
+
 - JHU: [https://www.cs.jhu.edu/~huang/cs817/spring21/](https://www.cs.jhu.edu/~huang/cs817/spring21/)
 - JHU: [https://www.cs.jhu.edu/~huang/cs624/spring21/syllabus.html](https://www.cs.jhu.edu/~huang/cs624/spring21/syllabus.html)
 - UMich: [Summer School 2020](https://web.eecs.umich.edu/~manosk/summer-school-2020.html)
 - [Systems Reading](https://github.com/lorin/systems-reading)
 
 ## In-Memory Databases
+
 - CMU advanced database systems course
   - [course videos](https://www.youtube.com/watch?v=m72mt4VN9ik&list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U)
   - [course reading list](https://15721.courses.cs.cmu.edu/spring2019/schedule.html#jan-14-2019)
-
-## Streaming Systems
-- [:star:] Vasia at BU: 
-  - [course DSPA 21](https://vasia.github.io/dspa21/readings.html)
-  - [course DSPA 20](https://vasia.github.io/dspa20/readings.html)
-- Jamie Brandon: [Scattered Thoughts](https://scattered-thoughts.net/)
-- Dunith Dhanushka: [https://dunith.medium.com/](https://dunith.medium.com/)
-- [streaming readings (in Chinese)](https://github.com/lw-lin/streaming-readings)
-
-
-
-
 
 
