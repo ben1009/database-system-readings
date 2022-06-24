@@ -1,4 +1,4 @@
 # IDE or Editor
-.idea/
-.DS_Store/
+.idea
+.DS_Store
 papers/.DS_Store
