@@ -32,10 +32,10 @@ For each paper digest, I try to answer the following questions:
 ## General
 
 - [:star:] [MIT 6.824 Distributed System Course](https://pdos.csail.mit.edu/6.824/schedule.html)
+- [:star:] Andy Pavlo at CMU: [CMUDatabaseGroup](https://www.youtube.com/@CMUDatabaseGroup)
 - [:star:] Yuanli Wang at BU: [Sys Reading](https://github.com/pentium3/sys_reading/issues)
-- [:star:] Andy Pavlo at CMU: [Seminar 2021](https://db.cs.cmu.edu/seminar2021/)
 - [:star:] Xiangfeng Zhu at UW: [Reading List](https://xzhu0027.gitbook.io/blog/reading-list)
-- CMU: [CMU 15-721 Database Systems Reading List (Spring 2016)](https://15721.courses.cs.cmu.edu/spring2016/schedule.html)
+
 - Lianke Qin at UCSB: [Paper](https://github.com/brucechin/paper)
 - Reynold Xin at Databricks: [DB Readings](https://github.com/rxin/db-readings)
 - UIUC: [https://systems-seminar-uiuc.github.io/fall20/index.html](https://systems-seminar-uiuc.github.io/fall20/index.html)
